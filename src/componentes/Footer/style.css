@@ -1,0 +1,23 @@
+footer{
+  background-color: #030303;
+  color: #adadad;
+}
+
+.footer{
+  text-align: center;
+  padding: 20px;
+}
+
+.footer a{
+  color: #ffffff;
+}
+
+@media(max-width: 768px){
+  .footer {
+    padding: 10px;
+  }
+
+  .footer p{
+    font-size: 0.75rem;
+  }
+}
